@@ -4,4 +4,12 @@ Jawab :
 1. - Class merupakan cetak biru (Blue print) atau kerangka dalam pembuatan program. Class juga merupakan prototipe yang mendefinisikan attribute dan behavior secara umum.
    - Objek adalah hasil instance atau penciptaan dari sebuah class. Objek dapat berupa semua hal yang ada dalam dunia nyata, baik konkrit maupun abstrak.
 2. - Method Setter (Mutator)/(Prosedur) digunakan untuk memberikan nilai ataupun untuk menampilkan nilai dari variabel, sehingga tidak memerlukan return value. Bisa juga digunakan objek untuk mengubah data baik itu berupa variabel instan ataupun static. Padam umunya digunakan "set<NamaInstanceVariabel>.
-   - Method Getter (Accessor)/(Fungsi) digunakan untuk mengambil nilai dari variabel, sehingga membutuhkan raturn value.
+   - Method Getter (Accessor)/(Fungsi) digunakan untuk mengambil nilai dari variabel, sehingga membutuhkan return value.
+3. 1. Nama Class
+   2. Atribut
+   3. Fungsi setter untuk memberikan nilai dari jenis komputer dan merk komputer
+   4. Fungsi getter untuk mengambil nilai dari jenis komputer
+   5. Fungsi getter untuk mengambil nilai dari merk komputer
+   6. Untuk pembuatan objek dari class komputer
+   7. Untuk melakukan pemberian nilai pada objek yang sudah dibuat dengan parameter "LAPTOP" dan "MACBOOK"
+   8. Untuk menampilkan jenis dan merek di console dengan cara melakukan fungsi getter

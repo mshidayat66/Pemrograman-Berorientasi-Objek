@@ -95,8 +95,5 @@ public class Nusaputra extends Mahasiswa {
         System.out.print(" = " + (float)jumlah/mhs.size());
 
         return jumlah / mhs.size();
-    }
-
-
-    
+    }    
 }

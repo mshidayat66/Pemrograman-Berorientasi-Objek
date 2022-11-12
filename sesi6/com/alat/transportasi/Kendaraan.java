@@ -1,6 +1,6 @@
-package com.alat.transportasi;
+package sesi6.com.alat.transportasi;
 
-import com.alat.transportasi.beroda.*;
+import sesi6.com.alat.transportasi.beroda.*;
 
 public class Kendaraan {
     

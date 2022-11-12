@@ -1,4 +1,4 @@
-package sesi6.com.belajarabstarct;
+package sesi6.com.belajarabstract;
 
 public class Lingkaran extends BangunDatar {
     

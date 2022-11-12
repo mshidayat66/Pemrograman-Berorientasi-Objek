@@ -1,4 +1,4 @@
-package com.sesi6.belajarinterface;
+package sesi6.com.belajarinterface;
 
 public class Lenovo implements Laptop {
     

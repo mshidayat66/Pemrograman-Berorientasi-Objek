@@ -1,4 +1,4 @@
-package com.sesi6.belajarabstarct;
+package sesi6.com.belajarabstract;
 
 public class Main {
     
